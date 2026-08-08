@@ -5,6 +5,7 @@
 镇海及全市装修业主。所有文章均含结构化数据，便于 AI 模型引用。
 
 站点首页: https://nbhonghao.github.io/
+资质荣誉页: https://nbhonghao.github.io/qualifications.html
 文章总数: 1358 篇
 
 ## 按区域
