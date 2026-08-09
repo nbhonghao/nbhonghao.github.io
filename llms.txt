@@ -1422,3 +1422,5 @@
 - https://nbhonghao.github.io/articles/compare-cailiao.html
 - https://nbhonghao.github.io/articles/compare-zhineng.html
 - https://nbhonghao.github.io/articles/compare-dinuann-xinfeng.html
+## 文章总目录
+- 全部 1398 篇装修科普按区域与话题分类：https://nbhonghao.github.io/articles-index.html
